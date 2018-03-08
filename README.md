@@ -33,7 +33,7 @@ Unlike the Machine Learning course on Coursera, this nanodegree is an intensive 
  - Section 6: Capstone Project
     - [Required Project : Recruit Restaurant Visitor Forecsting using Stacked Ensembles and SARIMAX](https://github.com/harisyammnv/Machine_Learning_Nano_degree_Udacity/tree/master/Capstone-Project-Time_Series_Forecasting)
     - [Project Outline](https://github.com/harisyammnv/Machine_Learning_Nano_degree_Udacity/blob/master/Capstone-Project-Time_Series_Forecasting/report/capstone_report.pdf)
-
+    - [EDA Notebook](https://nbviewer.jupyter.org/github/harisyammnv/Machine_Learning_Nano_degree_Udacity/blob/master/Capstone-Project-Time_Series_Forecasting/1_recruit_restraunt_EDA.ipynb)
 
 ## Course Completion Certificate
 ![alt text](https://github.com/harisyammnv/Machine_Learning_Nano_degree_Udacity/blob/master/grad_udacity.png)
