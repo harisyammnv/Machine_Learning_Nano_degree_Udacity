@@ -36,4 +36,4 @@ Unlike the Machine Learning course on Coursera, this nanodegree is an intensive 
 
 
 ## Course Completion Certificate
-![Certificate] (https://github.com/harisyammnv/Machine_Learning_Nano_degree_Udacity/blob/master/grad_udacity.png)  
+![alt text](https://github.com/harisyammnv/Machine_Learning_Nano_degree_Udacity/blob/master/grad_udacity.png)
